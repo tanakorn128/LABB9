@@ -16,5 +16,22 @@ namespace _3._3._2กำหนดจุด_style
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Paint(object sender, PaintEventArgs e)
+        {
+            Graphics g = e.Graphics;
+            Pen[] objPen = new Pen[11];
+            for(int i = 0; i < 11; i++)
+            {
+                objPen[i] = new Pen(Color.Blue, 9);
+            }
+            //Set pen styles
+            objPen[0].EndCap = LineCap
+        }
     }
 }
