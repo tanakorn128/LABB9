@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2.4ใช้Penร่วมกับHatchBrushเส้นแบบต่างๆ", "3.2.4ใช้Penร่วมกับHatchBrushเส้นแบบต่างๆ\3.2.4ใช้Penร่วมกับHatchBrushเส้นแบบต่างๆ.csproj", "{95AA76D0-F320-4AB7-91F7-49D5F9CCBA8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95AA76D0-F320-4AB7-91F7-49D5F9CCBA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AA76D0-F320-4AB7-91F7-49D5F9CCBA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AA76D0-F320-4AB7-91F7-49D5F9CCBA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AA76D0-F320-4AB7-91F7-49D5F9CCBA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDEE9BED-2DD2-438C-B1AE-FC9FBDC9104F}
+	EndGlobalSection
+EndGlobal
