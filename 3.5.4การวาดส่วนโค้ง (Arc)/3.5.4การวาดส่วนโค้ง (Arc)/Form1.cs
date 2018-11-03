@@ -28,9 +28,8 @@ namespace _3._5._4การวาดส่วนโค้ง__Arc_
 
             //
             Pen penPie = new Pen(Color.Magenta, 2);
-            g.DrawPie(penPie, 20, 20, 200, 150, 45, 90);
-            Pen penpie1 = new Pen(Color.BlueViolet, 2);
-            g.DrawPie(penpie1, 20, 20, 200, 150, 150, 45);
+            g.DrawPie(penPie, 20, 20, 200, 150, 90, 180);
+            
 
             g.Dispose();
 
