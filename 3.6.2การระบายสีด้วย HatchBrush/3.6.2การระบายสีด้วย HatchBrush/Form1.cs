@@ -36,8 +36,10 @@ namespace _3._6._2การระบายสีด้วย_HatchBrush
                     y = 20;
                     x += 150;
                 }
-                G.Dispose();
+               
             }
+            G.Dispose();
         }
+        
     }
 }
