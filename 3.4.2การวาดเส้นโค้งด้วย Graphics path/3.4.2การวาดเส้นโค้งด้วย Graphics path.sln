@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.4.2การวาดเส้นโค้งด้วย Graphics path", "3.4.2การวาดเส้นโค้งด้วย Graphics path\3.4.2การวาดเส้นโค้งด้วย Graphics path.csproj", "{D10BE5D5-BC6A-4FD0-80E0-36402A4819BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D10BE5D5-BC6A-4FD0-80E0-36402A4819BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10BE5D5-BC6A-4FD0-80E0-36402A4819BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10BE5D5-BC6A-4FD0-80E0-36402A4819BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10BE5D5-BC6A-4FD0-80E0-36402A4819BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0090FE7C-91D5-4EEE-82E6-2528CDB4C3EB}
+	EndGlobalSection
+EndGlobal
